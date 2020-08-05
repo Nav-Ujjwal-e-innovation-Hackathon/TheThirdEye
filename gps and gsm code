@@ -1,3 +1,4 @@
+//gps and gsm which is connected to arduino
 #include <SoftwareSerial.h>
 SoftwareSerial sim808(7,8);
 
