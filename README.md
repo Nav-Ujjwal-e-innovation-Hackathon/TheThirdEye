@@ -34,7 +34,7 @@ Click The Icon Below <br>
 
 ## The Architecture
 
- See  [Solution Design Architecture and Data Model.pptx] (Solution Design Architecture and Data Model.pptx)
+ See  [https://github.com/Nav-Ujjwal-e-innovation-Hackathon/TheThirdEye/blob/master/Solution%20Design%20Architecture%20and%20Data%20Model.pptx] (Solution Design Architecture and Data Model.pptx)
        
        1. When the person is walking ,the Logitech webcam connected to Raspberry Pi clicks pictures and sent to the IBM cloud.
        2.The visual recognition service is used to recognise the obstacle and the output is given in the form of text.
@@ -45,9 +45,9 @@ Click The Icon Below <br>
  
  ### code
  
-click the link below for IBM code
+   click the link below for IBM code
           https://github.com/Nav-Ujjwal-e-innovation-Hackathon/TheThirdEye/blob/master/code.py
-click the link below for firesensor code 
+   click the link below for firesensor code 
           https://github.com/Nav-Ujjwal-e-innovation-Hackathon/TheThirdEye/blob/master/firesensor%20code
        
  ## Built with
