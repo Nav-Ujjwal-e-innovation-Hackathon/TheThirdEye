@@ -30,7 +30,7 @@ The proposed system consists of three main units:
 The aim of the overall system is to provide a low cost, efficient navigation and obstacle detection aid for blind which gives a sense of artificial vision by providing information about the environmental scenario of static and dynamic object around them, so that they can walk independently.
 ## Description and Demo video
 Click The below link for video 
-        [![Watch the video](https://youtu.be/MapIl5MninA)
+        (https://youtu.be/MapIl5MninA)
 
 ## The Architecture
 
@@ -55,9 +55,12 @@ Click The below link for video
        
  ## Built with
  
-   1. IBM Visual Recognition service: It is used to identif the imageof an object
+   1. IBM Visual Recognition service: It is used to identify the image of an object
+   
    2.ARDUINO IDE: The Arduino software allows to write programs and upload into the board
+   
    3. VNC VIEWER: It is used to control and remotely access our raspberrypie
+   
    4. ANDROID STUDIO: It is used for development od android application that can be used by the guardian to track the person
    
 ## Authors
