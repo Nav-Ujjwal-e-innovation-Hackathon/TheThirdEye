@@ -6,7 +6,7 @@ Nav-Ujjwal-e-innovation-Hackathon Submission
 
 1. [Short description](#short-description)
 1. [Proposed System](#proposed system)
-1. [The Architecture](#the-architecture)
+1. [Design Architecture](#Design-architecture)
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Setup](#setup)
@@ -30,9 +30,9 @@ The proposed system consists of three main units:
 “THETHIRDEYE” system is easy to understand and maintain. This system uses Raspberry pi, it is a small processing device which works as computer at relatively low cost. Blind and visually impaired people find difficulties in detecting obstacles during walking in the street. The system is intended to provide artificial vision and object detection, real time assistance via GPS by making use of Raspberry Pi. The system consists of ultrasonic sensors, GPS module, and the feedback is received through audio. Voice output works through TTS (text to speech). Whenever the obstacle is detected on the way through ultrasonic sensor placed on the stick, Camera gets triggered to capture the object which is on the way. The captured image is sent to IBM cloud to identify the type of the object and then it is intimated as voice command through speaker or via earphones connected with Raspberry pi. So that blind can able to identify the object in-front of them, this technology makes walking stick smarter. And also it contains walking stick indicator in case if they miss the stick through sound beeping, Navigating their way to home by redefining the users' home through voice command using the Google map navigator and to know the places near to their location like shops.
 The aim of the overall system is to provide a low cost, efficient navigation and obstacle detection aid for blind which gives a sense of artificial vision by providing information about the environmental scenario of static and dynamic object around them, so that they can walk independently.
 
-# The Architecture:
+# Design Architecture:
 
-       See [Longdescription.md](Longdescription.md)
+       See [Solution Design Architecture and Data Model.pptx](Solution Design Architecture and Data Model.pptx)
 
 
 
