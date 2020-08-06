@@ -42,6 +42,10 @@ Click The Icon Below <br>
        4.The google text to speech library is used to convert text into speech
        5.The output is given to the user through earphones connected to Raspberry Pi.
        6.The stick has a wifi module that keeps it connected to internet which allows it to send pictures to cloud.
+ 
+ ### code
+    click the link below <br>
+    https://github.com/Nav-Ujjwal-e-innovation-Hackathon/TheThirdEye/blob/master/firesensor%20code
        
  ## Built with
  
