@@ -8,6 +8,8 @@ Nav-Ujjwal-e-innovation-Hackathon Submission
 1. [Description and Demo video](#description-and-demo-video)
 1. [The Architecture](#the-architecture)
 1. [Built with](#built-with)
+1. [Authors](#authors)
+
 ## Short description
 
 ### What's the problem?
@@ -34,12 +36,12 @@ Click The Icon Below <br>
 
        See [Solution Design Architecture and Data Model.pptx](Solution Design Architecture and Data Model.pptx)
        
-  1. When the person is walking ,the Logitech webcam connected to Raspberry Pi clicks pictures and sent to the IBM cloud.
-  2.The visual recognition service is used to recognise the obstacle and the output is given in the form of text.
-  3.The output is also stored in cloud object storage of IBM cloud.
-  4.The google text to speech library is used to convert text into speech
-  5.The output is given to the user through earphones connected to Raspberry Pi.
-  6.The stick has a wifi module that keeps it connected to internet which allows it to send pictures to cloud.
+       1. When the person is walking ,the Logitech webcam connected to Raspberry Pi clicks pictures and sent to the IBM cloud.
+       2.The visual recognition service is used to recognise the obstacle and the output is given in the form of text.
+       3.The output is also stored in cloud object storage of IBM cloud.
+       4.The google text to speech library is used to convert text into speech
+       5.The output is given to the user through earphones connected to Raspberry Pi.
+       6.The stick has a wifi module that keeps it connected to internet which allows it to send pictures to cloud.
        
  ## Built with
  
@@ -47,6 +49,12 @@ Click The Icon Below <br>
    2.ARDUINO IDE: The Arduino software allows to write programs and upload into the board
    3. VNC VIEWER: It is used to control and remotely access our raspberrypie
    4. ANDROID STUDIO: It is used for development od android application that can be used by the guardian to track the person
+   
+## Authors
+
+* Vaishnavi Rudraraju
+* Nandu Tejaswini
+   
 
 
 
