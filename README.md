@@ -46,9 +46,9 @@ Click The Icon Below <br>
  ### code
  
    click the link below for IBM code
-          https://github.com/Nav-Ujjwal-e-innovation-Hackathon/TheThirdEye/blob/master/code.py
+    https://github.com/Nav-Ujjwal-e-innovation-Hackathon/TheThirdEye/blob/master/code.py
    click the link below for firesensor code 
-          https://github.com/Nav-Ujjwal-e-innovation-Hackathon/TheThirdEye/blob/master/firesensor%20code
+    https://github.com/Nav-Ujjwal-e-innovation-Hackathon/TheThirdEye/blob/master/firesensor%20code
    click the below link for gps and gsm code
    https://github.com/Nav-Ujjwal-e-innovation-Hackathon/TheThirdEye/blob/master/gps%20and%20gsm%20code
    
