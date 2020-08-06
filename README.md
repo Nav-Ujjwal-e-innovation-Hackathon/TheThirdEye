@@ -5,7 +5,7 @@ Nav-Ujjwal-e-innovation-Hackathon Submission
 ## Contents
 
 1. [Short description](#short-description)
-1. [Proposed System](#proposed system)
+1. [proposed system](#proposed system)
 1. [The Architecture](#the-architecture)
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
@@ -20,7 +20,7 @@ Eye sight plays a major role in collecting most of the information from the real
 In the existing system, there is only technology to detect the obstacle and to notify the blind by having some warning sound. 
 The main objective of our project (THETHIRDEYE) is to provide a voice based assistance to blind people. Here we have developed an intelligent system that helps blind person to travel independently and works efficiently. Current navigation device for the visually impair focus on travelling from one location to another. Our project focuses on designing a device for blind people that help them to travel independently and also it must be comfortable to use. The proposed device is used for guiding individuals who are blind or partially sighted. The device is used to help blind people to move with the same ease and confidence as a sighted people.
 
-# Proposed System:
+# proposed system:
 The proposed system consists of three main units:
 
  1. Virtual camera and Ultrasonic Sensor unit. 
