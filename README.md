@@ -57,7 +57,7 @@ Click The below link for video
  
    1. IBM Visual Recognition service: It is used to identify the image of an object
    
-   2.ARDUINO IDE: The Arduino software allows to write programs and upload into the board
+    2.ARDUINO IDE: The Arduino software allows to write programs and upload into the board
    
    3. VNC VIEWER: It is used to control and remotely access our raspberrypie
    
